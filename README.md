@@ -1,2 +1,3 @@
 # Ultrashort-Pulse-Propagation-in-Hollow-Core-Fiber-Simulation
-Hollow core fibers are optical fibers with a hole in the core. They have some special properties unlike traditional optical fibers as the hollow in the center can be filled with any gas of choice and gas-light interaction can be studied.
+Hollow core fibers(HCF) are optical fibers with a hole in the core. They have some special properties unlike traditional optical fibers as the hollow in the center can be filled with any gas of choice and gas-light interaction can be studied. This is a simple program to simulate the pulse propagation in the HCF. PyNlo package has been used to process the interactions so make sure to install the pynlo package in your system before running this program. There are some default parameters feeded in the program, but user defined parameters are also allowed.
+Some changes will be made to improve the program.
